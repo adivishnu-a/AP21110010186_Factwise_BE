@@ -64,7 +64,7 @@ for i in range(1, 1001):
     elif ten==3:
         total = total + 6 #thirty
     elif ten==4:
-        total = total + 6 #fourty
+        total = total + 5 #forty
     elif ten==5:
         total = total + 5 #fifty
     elif ten==6:
@@ -97,4 +97,4 @@ for i in range(1, 1001):
 
 print("Total Number of letters used to write all the numbers from 1 to 1000: ", total)
 
-#Output = 21251
+#Output = #####
